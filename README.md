@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Frameworks, React, Redux, Chakra UI, Next JS, etc.**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React-JS,etc.**
+- 💬 Ask me about ** Java, HTML, CSS, JavaScript, React-JS,etc.**
 
 - 📫 How to reach me **rutujadhekolkar97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rutu dhekolkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rutu dhekolkar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rutujadhekolkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rutu dhekolkar" height="30" width="40" /></a>
 <a href="https://codesandbox.com/rutu-11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="rutu-11" height="30" width="40" /></a>
 <a href="https://instagram.com/rutuuu_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rutuuu_11" height="30" width="40" /></a>
 </p>
