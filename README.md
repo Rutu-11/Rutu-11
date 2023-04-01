@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutu-11&label=Profile%20views&color=0e75b6&style=flat" alt="rutu-11" /> </p>
 
+<img align="right" , alt="coading" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rutu-11" alt="rutu-11" /></a> </p>
 
