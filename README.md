@@ -33,6 +33,6 @@
 
 <div width="100%" justify-content="space-between"  margin="20px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rutu-11" alt="rutu-11"  /></a> </div>
 
-<p><img align="left" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutu-11&show_icons=true&locale=en&layout=compact" alt="rutu-11" /></p>
+<p><img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutu-11&show_icons=true&locale=en&layout=compact" alt="rutu-11" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rutu-11&show_icons=true&locale=en" alt="rutu-11" /></p>
