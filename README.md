@@ -36,16 +36,21 @@ A passionate Full Stack Web Developer skilled in React JS, Redux,Next js, MongoD
 ![](https://github-readme-stats.vercel.app/api?username=Rutu-11&theme=dracula&hide_border=false&include_all_commits=true&count_private=true )
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rutu-11&theme=dracula&hide_border=false)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutu-11&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="800" height="200" >
+
+<div display="flex" style="text-align: right;">
+ <img   width="50%" margin-right="10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutu-11&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" >
+ 
+  <img src="https://github-contributor-stats.vercel.app/api?username=Rutu-11&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
+</div>
+
 
 
 ## 🏆 GitHub Trophies
-<img img align="center" width="90%"  src="https://github-profile-trophy.vercel.app/?username=Rutu-11&theme=juicyfresh&no-frame=false&no-bg=true&margin=auto" alt="GitHub Profile Trophy" >
+<img img align="center" width="95%"  src="https://github-profile-trophy.vercel.app/?username=Rutu-11&theme=juicyfresh" alt="GitHub Profile Trophy" >
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rutu-11&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <!-- 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="300px"/> -->
