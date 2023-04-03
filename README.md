@@ -40,7 +40,7 @@ A passionate Full Stack Web Developer skilled in React JS, Redux,Next js, MongoD
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rutu-11&theme=juicyfresh&no-frame=false&no-bg=true&margin=auto)
+<img img align="center" width="90%"  src="https://github-profile-trophy.vercel.app/?username=Rutu-11&theme=juicyfresh&no-frame=false&no-bg=true&margin=auto" alt="GitHub Profile Trophy" >
 
 
 
