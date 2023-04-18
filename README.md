@@ -51,8 +51,8 @@ A passionate Full Stack Web Developer skilled in React JS, Redux,Next js, MongoD
 </div>
 
 <div display="flex" style="text-align: right;">
-  <img   width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=rutu-11&show_icons=true&locale=en&layout=compact" alt="Top Languages" >
- <img   width="42%"  src="https://github-readme-stats.vercel.app/api?username=rutu-11&show_icons=true&locale=en" alt="Top Languages" >
+  <img   width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutu-11&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" >
+ <img   width="42%"  src="https://github-readme-stats.vercel.app/api?username=Rutu-11&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" alt="Top Languages" >
  
   
 </div>
