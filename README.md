@@ -45,14 +45,14 @@ A passionate Full Stack Web Developer skilled in React JS, Redux,Next js, MongoD
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rutu-11&theme=dracula&hide_border=false) -->
 
 <div display="flex" style="text-align: right;">
-  <img  width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rutu-11&theme=dracula&hide_border=false" alt="GitHub Streak Stats">
+  <img  width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rutu-11&theme=dracula&hide_border=false" alt="GitHub Streak Stats">
  <img width="42%" src="https://github-contributor-stats.vercel.app/api?username=Rutu-11&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
  
 </div>
 
 <div display="flex" style="text-align: right;">
-  <img   width="40%"  src="https://github-readme-stats.vercel.app/api?username=Rutu-11&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="Top Languages" >
- <img   width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutu-11&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" >
+  <img   width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=rutu-11&show_icons=true&locale=en&layout=compact" alt="Top Languages" >
+ <img   width="42%"  src="https://github-readme-stats.vercel.app/api?username=rutu-11&show_icons=true&locale=en" alt="Top Languages" >
  
   
 </div>
